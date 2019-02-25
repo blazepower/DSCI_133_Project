@@ -1,0 +1,10 @@
+Project Ideas
+Determine value score for fake news vs real news based on reporting done in other places.  
+
+
+Compare number of hits with hits in other places.  Take claim, compare with aggregated news/informational articles 
+Grammatical structure (low weight)
+Syntatic structure
+Author (past history)
+Publication
+References (Interviews, publications)
