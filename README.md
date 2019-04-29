@@ -2,7 +2,7 @@
 
 #### Authored by [Rishik Hombal](rsh83@case.edu), [Brandon Rudolph](brr30@case.edu), and [Jack Zhang](cxz416@case.edu)
 ***
-##### Read the [Project Report](https://github.com/blazepower/DSCI_133_Project/tree/master/Project_Report) for the detailed methodology and analysis!
+##### Read the [Project Report](https://github.com/blazepower/DSCI_133_Project/tree/master/Project_Report) for the detailed methodology and analysis.
 
 ###### Abstract:
 ###### The purpose of this report was to train machine learning algorithms to fact check Presidential candidates. Using training data provided by William Yang Wang, we trained Google’s machine learning libraries Keras and Tensorflow to develop a supervised-learning algorithm to determine the truth of the program’s inputs. Outputs are enumerated from 0 (not true) through 5 (entirely true), spanning a set of 6 possible results per input. After testing the algorithm, it received an accuracy of 30%. We then proceed to use our data to make correlational connections between the honesty of a candidate and their political performances.
