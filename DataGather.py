@@ -2,10 +2,10 @@ import tweepy
 from pandas import DataFrame as df
 
 #API keys
-consumer_key = "XXYPVK5DkxuY9qSVqHEQFT2Ug"
-consumer_secret = "L8OFg8R2v9uI5J1sS20luzvAO2SzrOWexXeyQgMGcB0oPeqEOt"
-access_key = "2948334130-LRZDX5p5T0gWUhODfhhQhIMWq03jdvrY2L6lcvb"
-access_secret = "itOKrsvhDgo2KLzp1qCETJ2Dw5oj7lOHltPyZr7COhCbx"
+consumer_key = "******************"
+consumer_secret = "***********************"
+access_key = "*************-******************"
+access_secret = "********************"
 
 
 # Function to extract tweets
