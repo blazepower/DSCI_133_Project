@@ -1,7 +1,7 @@
 import tweepy
 from pandas import DataFrame as df
 
-#API keys
+#API keys will not be provided for security purposes
 consumer_key = "******************"
 consumer_secret = "***********************"
 access_key = "*************-******************"
