@@ -10,4 +10,4 @@ The [Data](https://github.com/blazepower/DSCI_133_Project/tree/master/Data) fold
 
 Take a look at the [RunTime Videos and Output](https://github.com/blazepower/DSCI_133_Project/tree/master/RunTime_Videos_and_Output) folder to see videos of our code running and the outputs that they produce.
 
-The [Project Presentation](https://github.com/blazepower/DSCI_133_Project/blob/master/Project_Presentation.pdf) are the presentation files used during the class presentation on 4/25/19.
+The [Project Presentation](https://github.com/blazepower/DSCI_133_Project/blob/master/Project_Presentation.pdf) contains the presentation files used during the class presentation on 4/25/19.
