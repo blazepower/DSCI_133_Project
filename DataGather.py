@@ -1,8 +1,7 @@
 import tweepy
 from pandas import DataFrame as df
 
-# Fill the X's with the credentials obtained by
-# following the above mentioned procedure.
+#API keys
 consumer_key = "XXYPVK5DkxuY9qSVqHEQFT2Ug"
 consumer_secret = "L8OFg8R2v9uI5J1sS20luzvAO2SzrOWexXeyQgMGcB0oPeqEOt"
 access_key = "2948334130-LRZDX5p5T0gWUhODfhhQhIMWq03jdvrY2L6lcvb"
@@ -30,9 +29,11 @@ def get_tweets(username):
     # tweet id, date/time, text
     full_tweets = [[tweet.full_text] for tweet in tweets]
     space = ""
-
+    
+    #Remove non-ascii characters
     def remove_emoji(inputStr):
         return inputStr.encode('ascii', 'ignore').decode('ascii')
+    
     #To clean each tweet by candidates
     for j in full_tweets:
         without_link = j[0][:j[0].rfind("http")]
