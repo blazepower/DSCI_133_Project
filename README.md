@@ -9,3 +9,5 @@ The [Tweets](https://github.com/blazepower/DSCI_133_Project/tree/master/Tweets) 
 The [Data](https://github.com/blazepower/DSCI_133_Project/tree/master/Data) folder contains CSV files containing the scores of the individual Tweets by each candidate.
 
 Take a look at the [RunTime Videos and Output](https://github.com/blazepower/DSCI_133_Project/tree/master/RunTime_Videos_and_Output) folder to see videos of our code running and the outputs that they produce.
+
+The [Project Presentation](https://github.com/blazepower/DSCI_133_Project/blob/master/Project_Presentation.pdf) are the presentation files used during the class presentation on 4/25/19.
