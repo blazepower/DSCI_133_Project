@@ -1,6 +1,7 @@
-# DSCI_133_Project
+# DSCI 133 Project
+## Machine Learning: The Accuracy and Shortfalls of Artificial Intelligence in Fact Checking Presidential Candidates
 
-Authored by Rishik Hombal, Brandon Rudolph, and Jack Zhang
+#### Authored by Rishik Hombal, Brandon Rudolph, and Jack Zhang
 ***
 [DataGather.py](https://github.com/blazepower/DSCI_133_Project/blob/master/DataGather.py) is code which gathers and cleans the candidates Tweets. 
 
