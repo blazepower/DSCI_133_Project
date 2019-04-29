@@ -19,14 +19,14 @@ def get_tweets(username):
     # Calling api
     api = tweepy.API(auth)
 
-    number_of_tweets = 300
+    #200 is max number of tweets per call
+    number_of_tweets = 200
     tweets = api.user_timeline(screen_name=username, count=number_of_tweets, tweet_mode="extended")
 
     # Empty Array
     tmp = []
 
-    # create array of tweet information: username,
-    # tweet id, date/time, text
+    #Creates array of full length tweets
     full_tweets = [[tweet.full_text] for tweet in tweets]
     space = ""
     
