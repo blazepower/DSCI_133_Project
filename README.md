@@ -1,6 +1,7 @@
 # DSCI_133_Project
 
 Authored by Rishik Hombal, Brandon Rudolph, and Jack Zhang
+___
 
 [DataGather.py](https://github.com/blazepower/DSCI_133_Project/blob/master/DataGather.py) is code which gathers and cleans the candidates Tweets. 
 
