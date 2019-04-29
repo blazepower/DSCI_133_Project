@@ -67,8 +67,7 @@ candidates = ["AmyKlobuchar", "AndrewYang", "BernieSanders", "BetoORourke", "Cor
 
 # Driver code
 if __name__ == '__main__':
-    # Here goes the twitter handle for the user
-    # whose tweets are to be extracted.
-    #for candidate in candidates:
-        #get_tweets(candidate)
-    print(len(candidates))
+    
+    for candidate in candidates:
+        get_tweets(candidate)
+ 
