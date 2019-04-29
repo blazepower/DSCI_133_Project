@@ -10,7 +10,9 @@
 
 [DataGather.py](https://github.com/blazepower/DSCI_133_Project/blob/master/DataGather.py) is code which gathers and cleans the candidates' Tweets. 
 
-[Deep Learning Algorithim](https://github.com/blazepower/DSCI_133_Project/blob/master/DeepLearningAlgorithim.py) is the code used to implement the Machine Learning Model and determine the truthfulness of the candidates' Tweets.
+[Deep Learning Algorithim](https://github.com/blazepower/DSCI_133_Project/blob/master/DeepLearningAlgorithim.py) is the code used to implement the Machine Learning model and determine the truthfulness of the candidates' Tweets.
+
+The code entitled [Main](https://github.com/blazepower/DSCI_133_Project/blob/master/Main.py) was used only for testing and demonstration purposes.  The actual Machine Learning model takes well over an hour to run, but this one finishes in under a minute.
 
 The [Tweets](https://github.com/blazepower/DSCI_133_Project/tree/master/Tweets) folder contains those Tweets as gathered on 4/22/29 in the form of Excel Workbooks.
 
