@@ -33,7 +33,7 @@ def get_tweets(username):
 
     def remove_emoji(inputStr):
         return inputStr.encode('ascii', 'ignore').decode('ascii')
-
+    #To clean each tweet by candidates
     for j in full_tweets:
         without_link = j[0][:j[0].rfind("http")]
         without_at = without_link.replace("@", space)
