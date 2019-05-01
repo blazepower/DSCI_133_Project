@@ -1,6 +1,3 @@
-#Author@ Jack Zhang
-#Learning Algorithim to Test Validity of 2020 Presidential Canidates Tweets
-
 from keras.layers.normalization import BatchNormalization
 from keras.models import Sequential
 from keras.layers import Dense, Dropout

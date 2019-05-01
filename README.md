@@ -10,7 +10,9 @@
 
 [DataGather.py](https://github.com/blazepower/DSCI_133_Project/blob/master/DataGather.py) is code which gathers and cleans the candidates' Tweets.
 
-[Deep Learning Algorithim](https://github.com/blazepower/DSCI_133_Project/blob/master/DeepLearningAlgorithim.py) is the code used to implement the Machine Learning model and determine the truthfulness of the candidates' Tweets.
+[Deep Learning Algorithim](https://github.com/blazepower/DSCI_133_Project/blob/master/DeepLearningAlgorithim.py) is the code used to create the Neural Network.
+
+The code entitled [Main](https://github.com/blazepower/DSCI_133_Project/blob/master/Main.py) was used for testing and demonstration purposes.  The code implements the Neural Network and trains it based on the Liar, Liar Dataset.  Then it factchecks Tweets. The labelled code was used only for demonstration.
 
 The [Tweets](https://github.com/blazepower/DSCI_133_Project/tree/master/Tweets) folder contains those Tweets as gathered on 4/22/29 in the form of Excel Workbooks.
 
@@ -20,4 +22,4 @@ Take a look at the [RunTime Videos and Output](https://github.com/blazepower/DSC
 
 The [Project Presentation](https://github.com/blazepower/DSCI_133_Project/blob/master/Project_Presentation.pdf) contains the presentation files used during the class presentation on 4/25/19.
 
-The code entitled [Main](https://github.com/blazepower/DSCI_133_Project/blob/master/Main.py) was used only for testing and demonstration purposes.  The actual Machine Learning model takes well over an hour to run, but this one finishes in under a minute.
+[Liar, Liar Pants on Fire](https://github.com/blazepower/DSCI_133_Project/blob/master/liar_dataset.zip) is the dataset used to train the Neural Network.  All credit goes to William Yang Wang.
